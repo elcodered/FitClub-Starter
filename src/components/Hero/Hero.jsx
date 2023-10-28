@@ -18,7 +18,7 @@ const Hero = () => {
 
         <div className="hero-text">
           <div>
-            <span className="stroke-text">Shape Your</span>
+            <span className="stroke-text">Giatay ka mak</span>
           </div>
           <div>
             <span>Ideal Body</span>

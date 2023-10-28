@@ -1,5 +1,4 @@
 import React from 'react'
-import {plansData} from '../../data/plansData'
 import './Plans.css'
 const Plans = () => {
   return (

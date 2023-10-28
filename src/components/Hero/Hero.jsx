@@ -18,7 +18,7 @@ const Hero = () => {
 
         <div className="hero-text">
           <div>
-            <span className="stroke-text">Soysoy Gwapo</span>
+            <span className="stroke-text">Giatay ka mak</span>
           </div>
           <div>
             <span>Ideal Body</span>
@@ -65,7 +65,7 @@ const Hero = () => {
         <div className="calories">
           <img src={Calories} alt="" />
           <div>
-            <span>Calories babylon burneddd</span>
+            <span>Calories burneddd</span>
             <span>220 kcal</span>
           </div>
         </div>

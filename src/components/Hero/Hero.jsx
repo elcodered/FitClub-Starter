@@ -21,7 +21,7 @@ const Hero = () => {
             <span className="stroke-text">Giatay ka mak</span>
           </div>
           <div>
-            <span>Ideal Body</span>
+            <span>Ideal Bodyyy</span>
           </div>
           <div>
             <span>
